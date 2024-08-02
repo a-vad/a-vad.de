@@ -4,16 +4,17 @@
     background: #212121;
   }
 
-  a:link {
+  a:link, a:visited {
     color: #58a6ff;
   }
 
-  a:visited {
-    color: #8e96f0;
-  }
 
   ul a {
     text-decoration: none;
+  }
+  ul a:visited {
+    text-decoration: none;
+    color: #8e96f0;
   }
 }
 ul a {
