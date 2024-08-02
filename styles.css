@@ -11,4 +11,11 @@
   a:visited {
     color: #8e96f0;
   }
+
+  ul a {
+    text-decoration: none;
+  }
+}
+ul a {
+  text-decoration: none;
 }
