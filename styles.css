@@ -25,6 +25,10 @@
   }
 }
 
+a:link, a:visited {
+  color: #005386;
+}
+
 ul a {
   text-decoration: none;
 }
