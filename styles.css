@@ -2,12 +2,19 @@
   body {
     color: #ffffff;
     background: #212121;
+    margin:40px auto;
+    max-width:650px;
+    line-height:1.6;
+    font-size:18px;
+    padding:0 10px
+  }
+  h1,h2,h3 {
+    line-height:1.2
   }
 
   a:link, a:visited {
     color: #58a6ff;
   }
-
 
   ul a {
     text-decoration: none;
@@ -17,6 +24,17 @@
     color: #8e96f0;
   }
 }
+
 ul a {
   text-decoration: none;
+}
+
+body {
+  background: #212121;
+  margin:40px auto;
+  max-width:650px;
+  line-height:1.6;
+  font-size:18px;
+  color:#444;
+  padding:0 10px
 }
